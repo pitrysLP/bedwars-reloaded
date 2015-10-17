@@ -31,7 +31,7 @@ public class TNTSheep extends SpecialItem {
 	}
 	
 	public int getEntityTypeId() {
-		return 91;
+		return 65;
 	}
 
 	@Override
